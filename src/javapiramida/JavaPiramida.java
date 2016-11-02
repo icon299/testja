@@ -51,7 +51,7 @@ public double W (int row, int pos) {
         
         }
       catch(Throwable e){
-          System.out.println("Something gonna wrong again.");
+          System.out.println("Something gonna wrong.");
       }
     }
 }
